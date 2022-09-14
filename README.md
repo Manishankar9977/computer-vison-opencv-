@@ -17,5 +17,8 @@ Output for face detection in images:
 
 output for live detection:
 
+![Screenshot (173)](https://user-images.githubusercontent.com/91583687/190121762-32ae0cbb-bda3-461e-a392-11744854fb0d.png)
+
+
 ![Screenshot (172)](https://user-images.githubusercontent.com/91583687/190115236-16e020d6-e646-4e74-8ab6-61c7b980d252.png)
 
